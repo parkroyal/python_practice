@@ -1,0 +1,15 @@
+Confusion Matrix 定義
+預測 -> 分類
+
+Ana 
+選擇算法
+1. 評論數 & 平均評價
+2. 
++ 時間維度
+
+
+title & description
+q1: title 切 sub category
+
+
+data cleaning -> eda -> rule based -> 跌代優化 測試結果能否重現或者只是over-fitting
