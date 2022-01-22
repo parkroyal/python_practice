@@ -1,0 +1,12 @@
+2022-01-22 19:13:01,336 - DEBUG : 4
+2022-01-22 19:13:01,336 - ERROR : a:<class 'int'>
+2022-01-22 19:13:12,562 - DEBUG : 4
+2022-01-22 19:13:12,562 - ERROR : a:<class 'int'>
+2022-01-22 19:52:58,908 - DEBUG - add: 4
+2022-01-22 19:52:58,908 - ERROR - add: a:<class 'int'>
+2022-01-22 20:00:10,126 - DEBUG - add: 4
+2022-01-22 20:00:10,127 - ERROR - add: a:<class 'int'>
+2022-01-22 20:14:26,896 - test.py- DEBUG - add: 4
+2022-01-22 20:14:26,896 - test.py- ERROR - add: a:<class 'int'>
+2022-01-22 20:24:40,374 - test.py- DEBUG - add: 4
+2022-01-22 20:24:40,375 - test.py- ERROR - add: a:<class 'int'>
