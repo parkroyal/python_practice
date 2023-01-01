@@ -1,0 +1,12 @@
+2022-05-06 15:09:18,602 - packages.logging_helper- script_divide.py- INFO - main: Start Script
+2022-05-06 15:09:18,603 - packages.logging_helper- math.py- DEBUG - divide: 0.6666666666666666
+2022-05-06 15:09:18,603 - packages.logging_helper- math.py- INFO - divide: succuessfully return.
+2022-05-06 15:09:18,603 - packages.logging_helper- script_divide.py- INFO - main: Start Script
+2022-05-06 15:09:18,604 - packages.logging_helper- math.py- ERROR - divide: a: <class 'int'>, b: <class 'str'>
+2022-05-06 15:09:18,604 - packages.logging_helper- script_divide.py- INFO - main: Start Script
+2022-05-06 15:09:18,604 - packages.logging_helper- math.py- ERROR - divide: other errors happened.
+Traceback (most recent call last):
+  File "c:\Users\powensu\Python\python_practice\logging_example\packages\math.py", line 11, in divide
+    result = a / b
+ZeroDivisionError: division by zero
+2022-05-06 15:09:18,605 - packages.logging_helper- script_multiple.py- INFO - main: Start Script

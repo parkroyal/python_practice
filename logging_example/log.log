@@ -1,8 +1,8 @@
-2022-04-28 17:27:58,997 - logging_basic.py- DEBUG - divide: 0.3333333333333333
-2022-04-28 17:27:58,997 - logging_basic.py- INFO - divide: succuessfully return.
-2022-04-28 17:27:58,997 - logging_basic.py- ERROR - divide: a:<class 'int'>
-2022-04-28 17:27:58,997 - logging_basic.py- ERROR - divide: other errors happened.
+2022-04-29 12:06:32,147 - root- logging_basic.py- DEBUG - divide: 0.3333333333333333
+2022-04-29 12:06:32,147 - root- logging_basic.py- INFO - divide: succuessfully return.
+2022-04-29 12:06:32,147 - root- logging_basic.py- ERROR - divide: a: <class 'int'>, b: <class 'str'>
+2022-04-29 12:06:32,147 - root- logging_basic.py- ERROR - divide: other errors happened.
 Traceback (most recent call last):
-  File "c:\Users\powensu\Python\python_practice\logging_example\test\logging_basic.py", line 11, in divide
+  File "c:\Users\powensu\Python\python_practice\logging_example\test\logging_basic.py", line 20, in divide
     result = a / b
 ZeroDivisionError: division by zero

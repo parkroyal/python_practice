@@ -1,10 +1,19 @@
-# from distutils.log import error
 import logging
-import sys
-# print(sys.path())
+import multiple
+
+
 logging.basicConfig(filename='log.log',
                     level=logging.DEBUG,
-                    format='%(asctime)s - %(filename)s- %(levelname)s - %(funcName)s: %(message)s')
+                    format='%(asctime)s - %(name)s- %(filename)s- %(levelname)s - %(funcName)s: %(message)s')
+
+# def divide(a:int, b:int):
+#     try:
+#         result = a / b
+#         logging.debug(f'{result}')
+#     except TypeError:
+#         return logging.error(f'a: {type(a)}, b: {type(b)}')
+#     else:
+#         return logging.info(f'succuessfully return.')
 
 def divide(a:int, b:int):
     try:
